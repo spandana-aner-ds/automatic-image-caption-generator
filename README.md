@@ -50,6 +50,10 @@ python train_caption_model.py
 Run the caption generator:
 python app.py
 
+## Output
+Input Image: dog.jpg
+Generated Caption: "A dog running in the grass."
+
 ## 👩‍💻 Author
 
 Spandana | Data Science Enthusiast
