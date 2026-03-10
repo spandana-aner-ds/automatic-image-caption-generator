@@ -27,6 +27,18 @@ This project builds a deep learning model that automatically generates captions 
 * `vgg16_lstm_model.py` – Model architecture
 * `app.py` – Generate captions for images
 
+## Model Comparison
+
+Different CNN architectures were evaluated for feature extraction:
+
+| Model     | Purpose                                      |
+| --------- | -------------------------------------------- |
+| VGG16     | Baseline feature extractor                   |
+| ResNet    | Deep residual network for improved accuracy  |
+| CNN       | Custom convolutional network                 |
+| Xception  | Depthwise separable convolution architecture |
+| MobileNet | Lightweight model for faster inference       |
+
 * Trained models are not uploaded due to large size*
 
 ## 📂 Dataset
