@@ -27,6 +27,8 @@ This project builds a deep learning model that automatically generates captions 
 * `vgg16_lstm_model.py` – Model architecture
 * `app.py` – Generate captions for images
 
+* Trained models are not uploaded due to large size*
+
 ## 📂 Dataset
 
 The dataset used for this project is **Flickr8k Dataset**, which contains 8000 images with captions.
